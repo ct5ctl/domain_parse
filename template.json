@@ -1,0 +1,10 @@
+{
+  "Domain": "",
+  "Parsability":false,
+  "Usability": false,
+  "Dynamicity": false,
+  "Circularity": false,
+  "IP Change Cycle": null,
+  "IP set": [],
+  "Result":{}
+}
